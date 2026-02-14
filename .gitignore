@@ -1,0 +1,44 @@
+# Node.js
+node_modules/
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+# Runtime data
+pids
+*.seed
+*.pid
+# Dependency directories
+jspm_packages/
+# Optional npm cache directory
+.npm/
+# Optional eslint cache
+.eslintcache
+# Build output
+/dist
+/build
+# Next.js
+.next/
+# React Native
+*.swp
+# Project files
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+# Coverage
+coverage/
+# Jest
+jest.config.js
+# TypeScript
+*.tsbuildinfo
+# Svelte
+.svelte-kit/
+# IntelliJ IDEA
+.idea/
+# Visual Studio Code
+.vscode/
